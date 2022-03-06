@@ -9,9 +9,9 @@
     "scrapper",
     "3"
   ],
-  "repository": "https://github.com/MRK-YT/MT-MyTelegramOrg-Bot",
-  "success_url": "https://telegram.dog/mo_tech_yt/38",
-  "website": "https://github.com/MRK-YT/MT-MyTelegramOrg-Bot",
+  "repository": "https://github.com/Devil-Official/API-EXTRACTOR-BOT",
+  "success_url": "https://github.com/Devil-Official/API-EXTRACTOR-BOT",
+  "website": "https://github.com/Devil-Official/API-EXTRACTOR-BOT",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -42,7 +42,7 @@
     },
     "FTEXT": {
       "description": "the footer text that will be seen in the bot message, after the final edit",
-      "value": "🔊𝙼𝚃 𝙱𝙾𝚃 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 :- @WhiteDevilOp999"
+      "value": "𝙱𝙾𝚃 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 :- @WhiteDevilOp999"
     },
     "START_TEXT": {
       "description": "the start text of the Telegram bot",
