@@ -16,7 +16,7 @@ Im API ID AND API HASH EXTRACTOR BOT
 
 /Start 𝙰𝚝 𝙰𝚗𝚢 𝚂𝚝𝚊𝚐𝚎 𝚃𝚘 𝚁𝚎-𝙴𝚗𝚝𝚎𝚛 𝚈𝚘𝚞𝚛 𝙳𝚎𝚝𝚊𝚒𝚕𝚜"""
     BEFORE_SUCC_LOGIN = "recieved code. Scarpping web page ..."
-    ERRED_PAGE = "something wrongings. failed to get app id. \n\n@WhiteDevilOp999
+    ERRED_PAGE = "something wrongings. failed to get app id. \n\n@WhiteDevilOp999"
     CANCELLED_MESG = "Bye! Please restart the bot conversation \n\n Want Restart Click This Text = /start"
-    IN_VALID_CODE_PVDED = "sorry, but the input does not seem to be a valid Telegram Web-Login code \n\n@WhiteDevilOp999"
+    IN_VALID_CODE_PVDED = "sorry, but the input does not seem to be a valid Telegram Web-Login code"
     IN_VALID_PHNO_PVDED = "sorry, but the input does not seem to be a valid phone number"
